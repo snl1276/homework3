@@ -1,0 +1,7 @@
+print('a=')
+a = input()
+print('b=')
+b = input()
+print('c=')
+c = input()
+print(type(a))
